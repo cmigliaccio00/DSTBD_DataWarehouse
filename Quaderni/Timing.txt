@@ -1,0 +1,6 @@
+Quad#	Argomento		Pubblicazione 	Scadenza
+------	--------		-------------	-------
+ 1	Data warehouse		15-nov		28-nov
+ 2	Data mining		24-nov		6-dic
+ 3 	Ottimizzatore		7-dic		21-dic
+ 4	Mongo DB		21-dic		11-gen
